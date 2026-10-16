@@ -5,6 +5,11 @@ My name is Michael and I am a software developer and Army veteran who has been i
 Fun fact: I make my own topographic maps 🗺️
 
 
+
+.
+.
+.
+
 - Garmin app page - https://apps.garmin.com/developer/74256629-2d78-401d-9836-1d5604e2fd64/apps
 - LinkedIn Profile - https://www.linkedin.com/in/wood-michael1/
 
