@@ -1,6 +1,6 @@
 ## Greetings 👋
 
-My name is Michael and I am a software developer and Army veteran who has been independently building wearable apps for the Garmin connectIQ platform since 2017. More recently through Microsoft Software and Systems Academy (MSSA), I’ve leaned into C#/.NET and Microsoft Azure, full-stack web applications, databases, and AI integration.
+My name is Michael and I am a software developer and Army veteran who has been independently building wearable apps for the Garmin connectIQ platform since 2017. More recently through Microsoft Software and Systems Academy (MSSA), I’m leaning into C#/.NET and Microsoft Azure, full-stack web applications, databases, and AI integration.
 
 Fun fact: I make my own topographic maps 🗺️
 
